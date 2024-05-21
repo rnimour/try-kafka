@@ -1,0 +1,12 @@
+.gradle
+build
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+/gradle/
+/gradlew
+/gradlew.bat
+
+### Mac OS ###
+.DS_Store
